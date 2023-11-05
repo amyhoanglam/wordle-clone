@@ -210,6 +210,6 @@
   margin-bottom: 0;
 }
 
-.alert-hide {
+.alert.hide {
   opacity: 0;
 }
